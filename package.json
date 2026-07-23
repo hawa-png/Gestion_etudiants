@@ -1,0 +1,23 @@
+{
+  "name": "gestion_etudiants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawa-png/Gestion_etudiants.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawa-png/Gestion_etudiants/issues"
+  },
+  "homepage": "https://github.com/hawa-png/Gestion_etudiants#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
